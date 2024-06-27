@@ -9,7 +9,7 @@ This is the GeoChatBot, created for the hackathon organized by Mineral Explorati
 
 ### GeoChatBot 🤖
 
-- Utilizes [LangChain](https://github.com/langchain/langchain) and [LLaMA 2 7B](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) for natural language processing and document retrieval.
+- Utilizes [LangChain](https://github.com/langchain/langchain) , [LLaMA 2 7B](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) and CTransformers for natural language processing and document retrieval.
 - Utilizes LangChain and CTransformers for natural language processing and document retrieval.
 - Provides answers based on geological documents in PDF format.
 - Maintains a conversation history for better context understanding.
