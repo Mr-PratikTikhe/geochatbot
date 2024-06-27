@@ -32,7 +32,7 @@ This is the GeoChatBot, created for the hackathon organized by Mineral Explorati
 - By Kriging method.
   ![Screenshot 2024-06-27 193205](https://github.com/Mr-PratikTikhe/geochatbot/assets/142296701/6f8aad21-74ba-4d17-a0c3-a02931db13b4)
 
-- Loats of features are there.
+- Lots of features are there.
   ![Screenshot 2024-06-27 193315](https://github.com/Mr-PratikTikhe/geochatbot/assets/142296701/7e00aa6e-97ee-42cd-8d2b-7897bb1c61ac) 
   
 
